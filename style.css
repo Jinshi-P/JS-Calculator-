@@ -1,0 +1,33 @@
+body{
+    box-sizing: border-box;
+}
+
+
+.calculator-card{
+    margin: 60px 100px;
+    width: 360px;
+    height: 400px;
+    margin-right: 50px;
+    background-color: rgba(161, 159, 159, 0.863);
+    border: 1px solid rgb(56, 49, 49);
+    border-radius: 6px;
+}   
+input{
+    width: 100%;
+    height: 60px;
+    text-align: right;
+    font-size: 3rem;
+    
+    
+
+}
+.calculator-keys{
+    padding: 20px;
+
+}
+button{
+    width: 55px;
+    height: 40px;
+    margin-bottom: 20px;
+    
+}
