@@ -14,7 +14,7 @@ body{
 }   
 input{
     width: 100%;
-    
+    background-color: bisque;
     text-align: right;
     font-size: 3rem;
     
